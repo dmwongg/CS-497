@@ -1,3 +1,4 @@
+Remove Invalid Parenthesis
 I used recursive depth first searchh algorithm to create a possible valid combination of parentheses. 
 I create a set to the resujlts to avoid creating duplicates. 
 First I defined a helper function to check if the given string of parantheses is valid.
